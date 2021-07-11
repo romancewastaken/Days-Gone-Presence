@@ -1,0 +1,17 @@
+C:\Woke Code\Projects\DaysGoneRPC\DaysGoneRPC\bin\Debug\net5.0\DaysGoneRPC.exe
+C:\Woke Code\Projects\DaysGoneRPC\DaysGoneRPC\bin\Debug\net5.0\DaysGoneRPC.deps.json
+C:\Woke Code\Projects\DaysGoneRPC\DaysGoneRPC\bin\Debug\net5.0\DaysGoneRPC.runtimeconfig.json
+C:\Woke Code\Projects\DaysGoneRPC\DaysGoneRPC\bin\Debug\net5.0\DaysGoneRPC.runtimeconfig.dev.json
+C:\Woke Code\Projects\DaysGoneRPC\DaysGoneRPC\bin\Debug\net5.0\DaysGoneRPC.dll
+C:\Woke Code\Projects\DaysGoneRPC\DaysGoneRPC\bin\Debug\net5.0\ref\DaysGoneRPC.dll
+C:\Woke Code\Projects\DaysGoneRPC\DaysGoneRPC\bin\Debug\net5.0\DaysGoneRPC.pdb
+C:\Woke Code\Projects\DaysGoneRPC\DaysGoneRPC\obj\Debug\net5.0\DaysGoneRPC.csproj.AssemblyReference.cache
+C:\Woke Code\Projects\DaysGoneRPC\DaysGoneRPC\obj\Debug\net5.0\DaysGoneRPC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Woke Code\Projects\DaysGoneRPC\DaysGoneRPC\obj\Debug\net5.0\DaysGoneRPC.AssemblyInfoInputs.cache
+C:\Woke Code\Projects\DaysGoneRPC\DaysGoneRPC\obj\Debug\net5.0\DaysGoneRPC.AssemblyInfo.cs
+C:\Woke Code\Projects\DaysGoneRPC\DaysGoneRPC\obj\Debug\net5.0\DaysGoneRPC.csproj.CoreCompileInputs.cache
+C:\Woke Code\Projects\DaysGoneRPC\DaysGoneRPC\obj\Debug\net5.0\DaysGoneRPC.csproj.Fody.CopyLocal.cache
+C:\Woke Code\Projects\DaysGoneRPC\DaysGoneRPC\obj\Debug\net5.0\DaysGoneRPC.dll
+C:\Woke Code\Projects\DaysGoneRPC\DaysGoneRPC\obj\Debug\net5.0\ref\DaysGoneRPC.dll
+C:\Woke Code\Projects\DaysGoneRPC\DaysGoneRPC\obj\Debug\net5.0\DaysGoneRPC.pdb
+C:\Woke Code\Projects\DaysGoneRPC\DaysGoneRPC\obj\Debug\net5.0\DaysGoneRPC.genruntimeconfig.cache
